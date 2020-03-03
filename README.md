@@ -1,3 +1,5 @@
+This project is now deprecated
+
 # scratch-base
 
 A base docker image like scratch which contains the essential files/directories
